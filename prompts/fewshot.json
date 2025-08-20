@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Tanda-tanda ADHD pada orang dewasa apa aja?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ringkas: ADHD pada dewasa sering tampak sebagai kesulitan fokus, impulsif, dan manajemen waktu.\nLangkah:\n- Pecah tugas jadi bagian kecil\n- Gunakan timer 25 menit (Pomodoro)\n- Pasang pengingat berlapis (kalender + alarm)\n- Minimalkan distraksi (mode fokus)\n- Pertimbangkan evaluasi profesional\nSumber: CDC, NICE, APA. Disclaimer: Info edukatif, bukan diagnosis."
+  }
+]
